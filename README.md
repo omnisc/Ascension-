@@ -1,3 +1,3 @@
 # ascension
 hide and seek
-<> (Comment test)
+[//]: <> (This is also a comment.)
