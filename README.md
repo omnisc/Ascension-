@@ -1,4 +1,4 @@
 # ascension
-hide and seek
+a message
 
-[//]: # (Hint: )
+[//]: # (Hint: 1974)
