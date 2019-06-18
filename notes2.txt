@@ -1,0 +1,65 @@
+Open Ports:
+- 21 (FTP)
+- 22 (SSH)
+- 24 (Telnet)
+- 25 (SMTP)
+- 53 (DNS)
+- 80 (HTTP)
+- 110 (POP3)
+- 143 (IMAP)
+- 8080 (Local)
+- 8123 (Map)
+- ???? (No...)
+
+192.168.1.1
+
+$50 - daily income
+$24 - side job
+$360 - weekly 3rd income
+
+??? ??th, ????
+You can't trust anyone. - O
+
+There's more than you think there is.
+
+It's bigger than you. It's bigger than me. It's bigger than anyone.
+
+New IRC who dis? - Bobby
+
+You can't connect unless you know what you're doing. - O
+
+Fine, how do I help? - B
+
+Stay low, stay connected. We're creating a network. - O
+
+Can I do any more...??? - B
+
+No. Not right now. I need you to stay on. - O
+
+Okay, help me find more people FROM THE GROUP - O
+
+Will do. - B
+
+We need a reorganization - O
+
+Isn't it too late? It's been forever. - B
+
+No, we just need to be more careful this time - O
+
+Are you sure? Remember what happened last time? - B
+
+Yes. - O
+
+People deserve a chance - O
+
+Ok, I trust you. - B
+
+Good. If this really is you, you'll know where I've sent some information. - O
+
+Hello? Did you get it? - O
+
+B? - O
+
+We have found B. You led us straight to him. Thank you - ???
+
+So you got the package. I'll be seeing you on the other side - O
